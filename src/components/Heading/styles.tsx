@@ -5,7 +5,7 @@ export const styles = StyleSheet.create({
   container: {
     width: '100%',
     padding: 32,
-    paddingTop: 0,
+    paddingTop: 14,
   },
   title: {
     color: THEME.COLORS.TEXT,
